@@ -15,5 +15,5 @@ See the [Rossetacode Cistercian Numerals](https://rosettacode.org/wiki/Cistercia
 ## Dependices
 
 Images are taken from:
-- This repo -> [Symbols](https://github.com/CompEng0001/CistercianNumberSystem/symbols/../../../../../symbols/Cistercian_digits_(vertical).svg)
+- This repo -> [Symbols](https://github.com/CompEng0001/CistercianNumberSystem/blob/main/symbols/Cisterican_Digits_grouped/Cistercian_digits.PNG)
 - Source -> [Cistercian Numeral Images](https://upload.wikimedia.org/wikipedia/commons/6/67/Cistercian_digits_%28vertical%29.svg)
